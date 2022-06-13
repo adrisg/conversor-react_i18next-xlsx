@@ -3,8 +3,5 @@
 
 /package-lock.json
 
-/input/jsons/**
-/input/xlsx/**
-
-/output/jsons/**
-/output/xlsx/**
+**/jsons/*.json
+**/xlsx/**.xlsx
