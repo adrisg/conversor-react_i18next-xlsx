@@ -1,7 +1,8 @@
 # Antes de usar la herramienta
-- Ejecutar el siguiente comando
+- Ejecutar los siguiente comandos
 ```hs
     npm i
+    npm run init
 ```
 
 # Convertir JSONS to XLSX

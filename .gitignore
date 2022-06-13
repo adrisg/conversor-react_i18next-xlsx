@@ -2,9 +2,3 @@
 /node_modules/**
 
 /package-lock.json
-
-# /inputs/**/*.json
-# /output/**/*.json
-# /inputs/**/*.xlsx
-# /output/**/*.xlsx
-# /**/xlsx/**.xlsx
