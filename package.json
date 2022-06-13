@@ -1,0 +1,23 @@
+{
+  "name": "Conversor_idiomas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:toXlsx": "nodemon src/toXlsx.js",
+    "toXlsx": "node src/toXlsx.js",
+    "dev:toJson": "nodemon src/toJson.js",
+    "toJson": "node src/toJson.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.merge": "^4.6.2",
+    "node-xlsx": "^0.21.0",
+    "nodemon": "^2.0.16",
+    "object-assign": "^4.1.1",
+    "xlsx": "^0.17.5"
+  }
+}
